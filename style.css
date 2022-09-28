@@ -152,17 +152,14 @@ ul.styled li{
     padding-left: 25px;
 }
 
-/*******************Copyright*********************/
+/*******************Copyright************************/
 #copyright{
     width: 100%;
     height: 130px;
     text-align: center;
     background-color: #16a085;
-    padding: 60px 0px 40px 0px;
+    padding-top: 20px;
     clear: both;
-    position: relative;
-    overflow: hidden;
-   
 }
 #copyright p{
     font-size: 12px;
