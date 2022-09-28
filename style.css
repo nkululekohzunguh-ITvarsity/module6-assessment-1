@@ -160,6 +160,8 @@ ul.styled li{
     background-color: #16a085;
     padding: 60px 0px 40px 0px;
     clear: both;
+    position: relative;
+    overflow: hidden;
    
 }
 #copyright p{
